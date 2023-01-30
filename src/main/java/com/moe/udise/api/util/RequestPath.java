@@ -15,5 +15,9 @@ public class RequestPath {
 	public  static final class facilityApi {
 		 public  static final String ctrl=baseUrl+"/v1/facility";
 	}
+	
+	public  static final class flashStaticSchoolApi {
+		 public  static final String ctrl=baseUrl+"/v1/flashSchool";
+	}
  
 }
